@@ -16,7 +16,7 @@ de esa manera, se calcula la deformada comparandola con la anterior, sin torre:
 
 Propiedades de diseño iniciales:
 
-'''
+```
 R = 12/100       #linea de soporte
 t = 6/1000       #linea de soporte
 R1 = 12/100      #Pasarela
@@ -29,7 +29,7 @@ R4 = 12/100      #diagonales
 t4 = 6/1000      #diagonales
 R5 = 12/100      #soporte columnas
 t5 = 6/1000      #soporte columnas
-'''
+```
 
 Para esta estructura inicial se cumplió la combinación de carga 1 y combinación de carga 2,
 obteniendo un Peso total = 900272.16652 [N].
@@ -47,7 +47,7 @@ Para optimizar la estructura, esta se dividió en cinco partes, para realizar ca
 
 Para este diseño se utilizaron las siguientes propiedades
 
-'''
+```
 R = 12/100        #linea de soporte
 t = 5/1000        #linea de soporte
 R1 = 10/100       #Pasarela
@@ -60,7 +60,7 @@ R4 = 6/100        #diagonales
 t4 = 2/1000       #diagonales
 R5 = 4/100        #soporte columnas
 t5 = 2/1000       #soporte columnas
-'''
+```
 
 Para esta estructura, se mantuvo el diseño de la armadura original, cambiando solo las propiedades antes mencionadas. 
 Se cumplió la combinación de carga 1 y combinación de carga 2.
@@ -73,7 +73,7 @@ Luego se analiza la vecindad de la barra que falló en cada parte, subiendo el e
 
 Para este diseño se utilizaron las siguientes propiedades:
 
-'''
+```
 R = 11.5/100       #linea de soporte
 t = 5/1000         #linea de soporte
 R1 = 9.5/100       #Pasarela
@@ -86,7 +86,7 @@ R4 = 6/100         #diagonales
 t4 = 2/1000        #diagonales
 R5 = 4/100         #soporte columnas
 t5 = 2/1000        #soporte columnas
-'''
+```
 
 Para esta estructura, se mantuvo el diseño de la armadura original, cambiando solo las propiedades antes mencionadas. 
 
